@@ -1,5 +1,7 @@
 # Rainbow Unicorn 1
 
+## This repo is archived. New updated version here: https://github.com/blinkyparts/unicorn
+
 This unicorn will bright up your life. The hair is glowing in all colours of the rainbow due to RGB-LEDs on the back. The soldering kit is very simple and easy to assamble.
 
 <img src="images/rgb-unicorn_front.jpg" width=300px alt="Rainbow Unicorn"> <img src="images/rgb-unicorn_back.jpg" width=300px alt="Rainbow Unicorn">
